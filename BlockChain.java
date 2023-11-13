@@ -1,4 +1,4 @@
-package mp7;
+
 
 /**
  * Authors: Christina Vu and Livia Stein Freitas

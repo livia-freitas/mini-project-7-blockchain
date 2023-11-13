@@ -1,4 +1,3 @@
-package mp7;
 import java.util.Arrays;
 
 /**
