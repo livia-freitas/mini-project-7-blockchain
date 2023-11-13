@@ -16,5 +16,6 @@ Authors: Livia Stein Freitas and Christina Vu
 
 ## Acknowledgements:
 
-Sam Rebelsky helped us figure out how to implement isValid().
-StackOverFlow helped us with the implementation of calculateHash(), the Node private class, isValidBlockChain(), toString(), and potentially other minor things.
+* Sam Rebelsky helped us figure out how to implement isValid().
+
+* StackOverFlow helped us with the implementation of calculateHash(), the Node private class, isValidBlockChain(), toString(), and potentially other minor things.
